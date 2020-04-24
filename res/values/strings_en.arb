@@ -1,0 +1,6 @@
+{
+  "loading": "Loading",
+  "not_configured": "Not configured",
+  "ready": "Ready",
+  "version": "Version ${version}"
+}
